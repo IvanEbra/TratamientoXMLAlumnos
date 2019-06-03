@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformeFaltas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumno>
+    <idAl>1</idAl>
+    <nombre> Ana Ruiz Fernández</nombre>
+    <email>ana@gmail.com</email>
+    <sumHorasFaltadas>6</sumHorasFaltadas>
+    <porcFaltas>3.8216560509554141</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>2</idAl>
+    <nombre> Juan Diz Santos </nombre>
+    <email>Juan@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>3</idAl>
+    <nombre> Antonio Valeiras Goméz </nombre>
+    <email>Antonio@gmail.com</email>
+    <sumHorasFaltadas>1</sumHorasFaltadas>
+    <porcFaltas>0.63694267515923575</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>4</idAl>
+    <nombre> Maria García Serrano </nombre>
+    <email>Maria@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>5</idAl>
+    <nombre> Roberto Costa García</nombre>
+    <email>Roberto@gmail.com</email>
+    <sumHorasFaltadas>6</sumHorasFaltadas>
+    <porcFaltas>3.8216560509554141</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>6</idAl>
+    <nombre> Martin Vazquez Goméz </nombre>
+    <email>Martin@gmail.com</email>
+    <sumHorasFaltadas>3</sumHorasFaltadas>
+    <porcFaltas>1.910828025477707</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>7</idAl>
+    <nombre> Andres Vázquez HernÃ¡ndez </nombre>
+    <email>Andres@gmail.com</email>
+    <sumHorasFaltadas>5</sumHorasFaltadas>
+    <porcFaltas>3.1847133757961785</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>8</idAl>
+    <nombre> Lucia Solera  Matos</nombre>
+    <email>Lucia@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>9</idAl>
+    <nombre> Alba Cifuentes García</nombre>
+    <email>Alba@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>10</idAl>
+    <nombre>  José Feijó López </nombre>
+    <email>Jose@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>11</idAl>
+    <nombre> Luis Sanchez Martínez </nombre>
+    <email>Luis@gmail.com</email>
+    <sumHorasFaltadas>10</sumHorasFaltadas>
+    <porcFaltas>6.369426751592357</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>12</idAl>
+    <nombre> Jaime Abad Bermejo </nombre>
+    <email>Jaime@gmail.com</email>
+    <sumHorasFaltadas>1</sumHorasFaltadas>
+    <porcFaltas>0.63694267515923575</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>13</idAl>
+    <nombre> Alberto Cabo Carrillo  </nombre>
+    <email>Alberto@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>14</idAl>
+    <nombre>  Victor Casal Frutos </nombre>
+    <email>Victor@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>15</idAl>
+    <nombre> Felipe Iglesias Alonso </nombre>
+    <email>Felipe@gmail.com</email>
+    <sumHorasFaltadas>0</sumHorasFaltadas>
+    <porcFaltas>0</porcFaltas>
+  </Alumno>
+  <Alumno>
+    <idAl>16</idAl>
+    <nombre> Marta Benítez Duran</nombre>
+    <email>Marta@gmail.com</email>
+    <sumHorasFaltadas>9</sumHorasFaltadas>
+    <porcFaltas>5.7324840764331215</porcFaltas>
+  </Alumno>
+</InformeFaltas>

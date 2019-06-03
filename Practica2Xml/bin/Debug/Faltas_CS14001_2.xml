@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Faltas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatosFaltas mes="11" curso="2017-2018">
+    <Fecha valor="1/1/2017">
+      <Falta IdAlumno="1" hora="8:30" modulo="1" />
+      <Falta IdAlumno="5" hora="8:30" modulo="1" />
+      <Falta IdAlumno="11" hora="8:30" modulo="1" />
+      <Falta IdAlumno="16" hora="8:30" modulo="1" />
+      <Falta IdAlumno="1" hora="9:30" modulo="1" />
+      <Falta IdAlumno="5" hora="9:30" modulo="1" />
+      <Falta IdAlumno="11" hora="9:30" modulo="1" />
+      <Falta IdAlumno="16" hora="9:30" modulo="1" />
+      <Falta IdAlumno="1" hora="10:30" modulo="3" />
+      <Falta IdAlumno="5" hora="10:30" modulo="3" />
+      <Falta IdAlumno="11" hora="10:30" modulo="3" />
+      <Falta IdAlumno="16" hora="10:30" modulo="3" />
+      <Falta IdAlumno="1" hora="11:30" modulo="3" />
+      <Falta IdAlumno="5" hora="11:30" modulo="3" />
+      <Falta IdAlumno="11" hora="11:30" modulo="3" />
+      <Falta IdAlumno="16" hora="11:30" modulo="3" />
+    </Fecha>
+    <Fecha valor="2/11/2017">
+      <Falta IdAlumno="3" hora="8:30" modulo="1" />
+      <Falta IdAlumno="4" hora="8:30" modulo="4" />
+      <Falta IdAlumno="11" hora="8:30" modulo="4" />
+      <Falta IdAlumno="16" hora="8:30" modulo="4" />
+      <Falta IdAlumno="1" hora="9:30" modulo="4" />
+      <Falta IdAlumno="5" hora="9:30" modulo="4" />
+      <Falta IdAlumno="11" hora="9:30" modulo="4" />
+      <Falta IdAlumno="16" hora="9:30" modulo="4" />
+      <Falta IdAlumno="1" hora="10:30" modulo="3" />
+      <Falta IdAlumno="5" hora="10:30" modulo="3" />
+      <Falta IdAlumno="11" hora="10:30" modulo="3" />
+      <Falta IdAlumno="16" hora="10:30" modulo="3" />
+      <Falta IdAlumno="1" hora="11:30" modulo="3" />
+      <Falta IdAlumno="5" hora="11:30" modulo="3" />
+      <Falta IdAlumno="11" hora="11:30" modulo="3" />
+      <Falta IdAlumno="16" hora="11:30" modulo="3" />
+    </Fecha>
+    <Fecha valor="3/11/2017">
+      <Falta IdAlumno="1" hora="8:30" modulo="1" />
+      <Falta IdAlumno="5" hora="8:30" modulo="1" />
+      <Falta IdAlumno="11" hora="8:30" modulo="1" />
+      <Falta IdAlumno="16" hora="8:30" modulo="1" />
+      <Falta IdAlumno="1" hora="9:30" modulo="1" />
+      <Falta IdAlumno="5" hora="9:30" modulo="1" />
+      <Falta IdAlumno="11" hora="9:30" modulo="1" />
+      <Falta IdAlumno="16" hora="9:30" modulo="1" />
+      <Falta IdAlumno="1" hora="10:30" modulo="5" />
+      <Falta IdAlumno="5" hora="10:30" modulo="5" />
+      <Falta IdAlumno="11" hora="10:30" modulo="5" />
+      <Falta IdAlumno="16" hora="10:30" modulo="5" />
+      <Falta IdAlumno="1" hora="11:30" modulo="5" />
+      <Falta IdAlumno="5" hora="11:30" modulo="5" />
+      <Falta IdAlumno="11" hora="11:30" modulo="5" />
+      <Falta IdAlumno="16" hora="11:30" modulo="5" />
+    </Fecha>
+    <Fecha valor="4/11/2017">
+      <Falta IdAlumno="3" hora="8:30" modulo="4" />
+      <Falta IdAlumno="4" hora="8:30" modulo="4" />
+      <Falta IdAlumno="11" hora="8:30" modulo="4" />
+      <Falta IdAlumno="16" hora="8:30" modulo="4" />
+      <Falta IdAlumno="1" hora="9:30" modulo="4" />
+      <Falta IdAlumno="5" hora="9:30" modulo="4" />
+      <Falta IdAlumno="11" hora="9:30" modulo="4" />
+      <Falta IdAlumno="16" hora="9:30" modulo="4" />
+      <Falta IdAlumno="1" hora="10:30" modulo="1" />
+      <Falta IdAlumno="5" hora="10:30" modulo="1" />
+      <Falta IdAlumno="11" hora="10:30" modulo="1" />
+      <Falta IdAlumno="16" hora="10:30" modulo="1" />
+      <Falta IdAlumno="1" hora="11:30" modulo="1" />
+      <Falta IdAlumno="5" hora="11:30" modulo="1" />
+      <Falta IdAlumno="11" hora="11:30" modulo="1" />
+      <Falta IdAlumno="16" hora="11:30" modulo="1" />
+    </Fecha>
+    <Fecha valor="7/11/2017">
+      <Falta IdAlumno="6" hora="8:30" modulo="6" />
+      <Falta IdAlumno="7" hora="8:30" modulo="6" />
+      <Falta IdAlumno="11" hora="8:30" modulo="6" />
+      <Falta IdAlumno="16" hora="8:30" modulo="6" />
+      <Falta IdAlumno="6" hora="9:30" modulo="6" />
+      <Falta IdAlumno="7" hora="9:30" modulo="6" />
+      <Falta IdAlumno="11" hora="9:30" modulo="6" />
+      <Falta IdAlumno="16" hora="9:30" modulo="6" />
+      <Falta IdAlumno="6" hora="10:30" modulo="3" />
+      <Falta IdAlumno="7" hora="10:30" modulo="1" />
+      <Falta IdAlumno="11" hora="10:30" modulo="1" />
+      <Falta IdAlumno="16" hora="10:30" modulo="1" />
+      <Falta IdAlumno="6" hora="11:30" modulo="1" />
+      <Falta IdAlumno="7" hora="11:30" modulo="1" />
+      <Falta IdAlumno="11" hora="11:30" modulo="1" />
+      <Falta IdAlumno="16" hora="11:30" modulo="1" />
+    </Fecha>
+    <Fecha valor="8/11/2017">
+      <Falta IdAlumno="7" hora="8:30" modulo="6" />
+      <Falta IdAlumno="9" hora="8:30" modulo="6" />
+      <Falta IdAlumno="11" hora="8:30" modulo="6" />
+      <Falta IdAlumno="16" hora="8:30" modulo="6" />
+      <Falta IdAlumno="6" hora="9:30" modulo="6" />
+      <Falta IdAlumno="7" hora="9:30" modulo="6" />
+      <Falta IdAlumno="11" hora="9:30" modulo="6" />
+      <Falta IdAlumno="16" hora="9:30" modulo="6" />
+      <Falta IdAlumno="6" hora="10:30" modulo="3" />
+      <Falta IdAlumno="7" hora="10:30" modulo="1" />
+      <Falta IdAlumno="11" hora="10:30" modulo="1" />
+      <Falta IdAlumno="16" hora="10:30" modulo="1" />
+      <Falta IdAlumno="6" hora="11:30" modulo="1" />
+      <Falta IdAlumno="7" hora="11:30" modulo="1" />
+    </Fecha>
+    <Fecha valor="9/11/2017">
+      <Falta IdAlumno="6" hora="8:30" modulo="6" />
+      <Falta IdAlumno="7" hora="8:30" modulo="6" />
+      <Falta IdAlumno="11" hora="8:30" modulo="6" />
+      <Falta IdAlumno="12" hora="8:30" modulo="6" />
+      <Falta IdAlumno="6" hora="9:30" modulo="6" />
+      <Falta IdAlumno="7" hora="9:30" modulo="6" />
+      <Falta IdAlumno="11" hora="9:30" modulo="6" />
+      <Falta IdAlumno="12" hora="9:30" modulo="6" />
+      <Falta IdAlumno="6" hora="10:30" modulo="3" />
+      <Falta IdAlumno="7" hora="10:30" modulo="1" />
+      <Falta IdAlumno="11" hora="10:30" modulo="1" />
+      <Falta IdAlumno="12" hora="10:30" modulo="1" />
+      <Falta IdAlumno="6" hora="11:30" modulo="1" />
+    </Fecha>
+    <Fecha valor="10/11/2017">
+      <Falta IdAlumno="2" hora="8:30" modulo="6" />
+      <Falta IdAlumno="3" hora="8:30" modulo="6" />
+      <Falta IdAlumno="11" hora="8:30" modulo="6" />
+      <Falta IdAlumno="16" hora="8:30" modulo="6" />
+      <Falta IdAlumno="6" hora="9:30" modulo="6" />
+      <Falta IdAlumno="7" hora="9:30" modulo="6" />
+      <Falta IdAlumno="11" hora="9:30" modulo="6" />
+    </Fecha>
+  </DatosFaltas>
+  <DatosAlumnos>
+    <Alumno id="1" email="ana@gmail.com"> Ana Ruiz Fernández</Alumno>
+    <Alumno id="2" email="Juan@gmail.com"> Juan Diz Santos </Alumno>
+    <Alumno id="3" email="Antonio@gmail.com"> Antonio Valeiras Goméz </Alumno>
+    <Alumno id="4" email="Maria@gmail.com"> Maria García Serrano </Alumno>
+    <Alumno id="5" email="Roberto@gmail.com"> Roberto Costa García</Alumno>
+    <Alumno id="6" email="Martin@gmail.com"> Martin Vazquez Goméz </Alumno>
+    <Alumno id="7" email="Andres@gmail.com"> Andres Vázquez HernÃ¡ndez </Alumno>
+    <Alumno id="8" email="Lucia@gmail.com"> Lucia Solera  Matos</Alumno>
+    <Alumno id="9" email="Alba@gmail.com"> Alba Cifuentes García</Alumno>
+    <Alumno id="10" email="Jose@gmail.com">  José Feijó López </Alumno>
+    <Alumno id="11" email="Luis@gmail.com"> Luis Sanchez Martínez </Alumno>
+    <Alumno id="12" email="Jaime@gmail.com"> Jaime Abad Bermejo </Alumno>
+    <Alumno id="13" email="Alberto@gmail.com"> Alberto Cabo Carrillo  </Alumno>
+    <Alumno id="14" email="Victor@gmail.com">  Victor Casal Frutos </Alumno>
+    <Alumno id="15" email="Felipe@gmail.com"> Felipe Iglesias Alonso </Alumno>
+    <Alumno id="16" email="Marta@gmail.com"> Marta Benítez Duran</Alumno>
+  </DatosAlumnos>
+</Faltas>

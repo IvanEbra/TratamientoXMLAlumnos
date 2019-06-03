@@ -1,0 +1,39 @@
+﻿<Window x:Class="Practica2Xml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica2Xml"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="gridInicial" HorizontalAlignment="Left" Height="140" Margin="240,138,0,0" VerticalAlignment="Top" Width="296">
+            <Button x:Name="botonResumenFaltas" Content="Resumen Faltas" HorizontalAlignment="Left" Margin="173,62,0,0" VerticalAlignment="Top" Width="113" Click="botonResumenFaltas_Click"/>
+            <Button x:Name="botonGestionarAlumnos" Content="Gestionar Alumnos" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Width="113" Click="botonGestionarAlumnos_Click"/>
+        </Grid>
+        <Grid x:Name="gridGestionarAlumnos" HorizontalAlignment="Left" Height="401" Margin="10,10,0,0" VerticalAlignment="Top" Width="773" Visibility="Hidden">
+            <Button x:Name="botonAgregarAlumno" Content="Agregar Alumno" HorizontalAlignment="Left" Margin="330,347,0,0" VerticalAlignment="Top" Width="135" Height="37" Click="botonAgregarAlumno_Click"/>
+            <Button x:Name="botonEliminarAlumno" Content="Eliminar Seleccionado" HorizontalAlignment="Left" Margin="511,347,0,0" VerticalAlignment="Top" Width="135" Height="37" Click="botonEliminarAlumno_Click"/>
+            <DataGrid x:Name="dataGridAlumnos" HorizontalAlignment="Left" Height="299" Margin="10,28,0,0" VerticalAlignment="Top" Width="753"/>
+            <Button x:Name="botonVolverInicio" Content="Volver al Inicio" HorizontalAlignment="Left" Margin="141,347,0,0" VerticalAlignment="Top" Width="135" Height="37" Click="botonVolverInicio_Click"/>
+        </Grid>
+        <Grid x:Name="gridAgregarAlumno" HorizontalAlignment="Left" Height="298" Margin="213,62,0,0" VerticalAlignment="Top" Width="323" Visibility="Hidden">
+            <Button x:Name="botonAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="92,239,0,0" VerticalAlignment="Top" Width="75" Click="botonAgregar_Click"/>
+            <Button x:Name="botonVolver" Content="Volver" HorizontalAlignment="Left" Margin="222,239,0,0" VerticalAlignment="Top" Width="75" Click="botonVolver_Click"/>
+            <Label x:Name="labelId" Content="ID:" HorizontalAlignment="Left" Margin="92,57,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxId" HorizontalAlignment="Left" Height="26" Margin="157,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="labelEmail" Content="Email" HorizontalAlignment="Left" Margin="78,105,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxEmail" HorizontalAlignment="Left" Height="25" Margin="157,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="labelNombre" Content="Nombre" HorizontalAlignment="Left" Margin="62,163,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="textBoxNombre" HorizontalAlignment="Left" Height="26" Margin="157,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        </Grid>
+        <Grid x:Name="gridResumenFaltas" HorizontalAlignment="Left" Height="373" Margin="28,28,0,0" VerticalAlignment="Top" Width="731" Visibility="Hidden">
+            <ComboBox x:Name="comboModulos" HorizontalAlignment="Left" Margin="93,10,0,0" VerticalAlignment="Top" Width="120" Height="26" SelectionChanged="comboModulos_SelectionChanged"/>
+            <Label x:Name="lableModulos" Content="Modulos:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <DataGrid x:Name="dataGridResumenFaltas" HorizontalAlignment="Left" Height="292" Margin="10,71,0,0" VerticalAlignment="Top" Width="711"/>
+            <Button x:Name="botonSerializarResultado" Content="Serializar Resumen" HorizontalAlignment="Left" Margin="277,10,0,0" VerticalAlignment="Top" Width="113" Height="26" Click="botonSerializarResultado_Click"/>
+            <Button x:Name="botonVolvIni" Content="Volver" HorizontalAlignment="Left" Margin="414,10,0,0" VerticalAlignment="Top" Width="116" Height="26" Click="botonVolvIni_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>
